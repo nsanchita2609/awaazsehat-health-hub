@@ -1,0 +1,8 @@
+{
+  "name": "AwaazSehat",
+  "short_name": "AwaazSehat",
+  "theme_color": "#1A7A4A",
+  "background_color": "#F8FBF9",
+  "display": "standalone",
+  "start_url": "/"
+}
