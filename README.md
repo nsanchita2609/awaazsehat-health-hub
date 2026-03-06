@@ -12,7 +12,7 @@ rural users with zero English proficiency.
 - Voice readback of results in regional languages
 - Fully offline-capable as a PWA
 
-## Tech Stack
+# Tech Stack
 React.js, TailwindCSS, Node.js, Supabase, PostgreSQL, 
 Claude API, Leaflet.js, Web Speech API, Vite, Vercel
 
